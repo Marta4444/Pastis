@@ -1,13 +1,8 @@
-// Para compartir los datos entre dos móviles, pega aquí la configuración de Firebase
-// (ver LEEME.md, apartado 3). Si la dejas en null, la app funciona igual pero solo en un móvil.
-window.FIREBASE_CONFIG = null;
-
-// Ejemplo de cómo queda cuando la pegas:
-// window.FIREBASE_CONFIG = {
-//   apiKey: "AIza...",
-//   authDomain: "tu-proyecto.firebaseapp.com",
-//   projectId: "tu-proyecto",
-//   storageBucket: "tu-proyecto.appspot.com",
-//   messagingSenderId: "123456789",
-//   appId: "1:123456789:web:abc123"
-// };
+window.FIREBASE_CONFIG = {
+  apiKey: "AIzaSyA9b6QPXHyoQ5eUGlesMPbPJJIHQf_BRDk",
+  authDomain: "tracker-medicacion.firebaseapp.com",
+  projectId: "tracker-medicacion",
+  storageBucket: "tracker-medicacion.firebasestorage.app",
+  messagingSenderId: "84602448062",
+  appId: "1:84602448062:web:64e71cc0c8c129ec1dd6ef"
+};
